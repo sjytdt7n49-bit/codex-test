@@ -1,0 +1,2 @@
+Codex/GitHub connector write test.
+If you can see this file, repository write access is working.
